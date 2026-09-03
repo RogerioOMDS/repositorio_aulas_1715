@@ -1,1 +1,7 @@
 meu primeiro arquivo do github
+
+minha linha 1 
+
+minha linha 2 
+
+minha linha 3
